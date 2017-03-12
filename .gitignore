@@ -1,4 +1,5 @@
 *backup*
 *.tsv
+*.csv
 *checkpoints*
 .DS_Store
