@@ -19,6 +19,10 @@ This is a bar graph with equalizer effect that shows the top 18 ranks by gender 
 [visualization2](http://www.coupio.us:8080/viz2.html)
 ![viz2](./viz2.png) 
 
+Both are created by D3. First visualization was an adapted version from [Nadieh Bremer](http://nbremer.github.io/top2000/)
+
+Second was just using examples posted on d3 repository.
+
 
 
 
