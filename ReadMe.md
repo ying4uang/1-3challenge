@@ -8,7 +8,7 @@ For python related code and results: click [here](https://github.com/ying4uang/1
 
 github code: click [here](https://github.com/ying4uang/vizmusic)
 
-Live visualizations
+
 [visualization 1](www.coupio.us:8080)
 [visualization 2](www.coupio.us:8080/viz2.html)
 
